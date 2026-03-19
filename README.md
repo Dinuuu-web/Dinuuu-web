@@ -44,19 +44,19 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dinuuu-web\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Dinuuu-web\&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dinuuu-web/Dinuuu-web/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
